@@ -1,8 +1,30 @@
-{{ if .Title }}
-  <figure>
-    <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}">
-    <center><figcaption>{{ .Title }}</figcaption></center>
-  </figure>
+{{ if .Title }} {{- $image := .Page.Resources.GetMatch (printf "%s"
+(.Destination | safeURL)) -}}
+<figure>
+  <img
+    src="{{ .Destination | safeURL }}"
+    alt="{{ .Text }}"
+    {{
+    with
+    $image
+    }}
+    width="{{ $image.Width }}"
+    height="{{ $image.Height }}"
+    {{
+    end
+    }}
+    {{
+    with
+    .Title}}
+    style="width: 100%; max-width: {{ .}};"
+    {{
+    end
+    }}
+  />
+  <center><figcaption>{{ .Title }}</figcaption></center>
+</figure>
 {{ else }}
-  <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}">
+<img src="{{ .Destination | safeURL }}" alt="{{ .Text }}" />
 {{ end }}
+
+<!-- https://werat.dev/blog/automatic-image-size-attributes-in-hugo/ -->

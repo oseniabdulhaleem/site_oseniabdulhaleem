@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hash verification on oseniabdulhaleem</title>
+    <link>https://zhaohuabing.com/tags/hash-verification/</link>
+    <description>Recent content in hash verification on oseniabdulhaleem</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://zhaohuabing.com/tags/hash-verification/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Importance of verifying hash on the server side during authentication</title>
+      <link>https://zhaohuabing.com/post/06-01-2024-importance-of-verifying-hash/</link>
+      <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://zhaohuabing.com/post/06-01-2024-importance-of-verifying-hash/</guid>
+      <description>Overview User authentication is a critical aspect of web applications, ensuring that only legitimate users gain access to protected resources. When integrating third-party authentication systems, such as the Telegram Login Widget, it becomes crucial to validate the received data on the server side. In this article, we&amp;rsquo;ll delve into the process of hash verification and its significance in maintaining the security of your web application.&#xA;Authentication with Telegram Login Widget In the context of my web application, I chose to leverage the Telegram Login Widget for user authentication.</description>
+    </item>
+  </channel>
+</rss>

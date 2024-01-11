@@ -2,28 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://zhaohuabing.com/post/readme/</loc>
-    <lastmod>2019-01-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zhaohuabing.com/</loc>
-    <lastmod>2019-01-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zhaohuabing.com/post/</loc>
-    <lastmod>2019-01-09T00:00:00+00:00</lastmod>
+    <loc>https://zhaohuabing.com/tags/authentication/</loc>
+    <lastmod>2024-01-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://zhaohuabing.com/categories/</loc>
-    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zhaohuabing.com/tags/crypto/</loc>
+    <lastmod>2024-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zhaohuabing.com/tags/hash-verification/</loc>
+    <lastmod>2024-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zhaohuabing.com/post/06-01-2024-importance-of-verifying-hash/</loc>
+    <lastmod>2024-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zhaohuabing.com/</loc>
+    <lastmod>2024-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zhaohuabing.com/post/</loc>
+    <lastmod>2024-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zhaohuabing.com/tags/</loc>
+    <lastmod>2024-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zhaohuabing.com/categories/tech/</loc>
+    <lastmod>2024-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zhaohuabing.com/tags/tag1/</loc>
+    <lastmod>2024-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zhaohuabing.com/tags/tag2/</loc>
+    <lastmod>2024-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zhaohuabing.com/post/2024-02-01-warehouse-scale-computing/</loc>
+    <lastmod>2024-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zhaohuabing.com/post/readme/</loc>
+    <lastmod>2019-01-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://zhaohuabing.com/tags/istio/</loc>
     <lastmod>2018-06-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://zhaohuabing.com/2018/06/04/introducing-the-istio-v1alpha3-routing-api/</loc>
-    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zhaohuabing.com/tags/</loc>
-    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zhaohuabing.com/categories/tech/</loc>
     <lastmod>2018-06-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://zhaohuabing.com/2018/06/02/istio08/</loc>
