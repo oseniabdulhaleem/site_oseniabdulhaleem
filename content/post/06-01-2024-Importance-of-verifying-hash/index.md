@@ -5,7 +5,10 @@ description: "the article gives an overview of how verification of hashing was d
 date: 2024-01-06
 author:      "oseni abdulhaleem"
 image: ""
-tags: ["crypto", "hash verification", "authentication"]
+tags:
+  - crypto
+  - hash verification
+  - authentication
 categories: ["Tech"]
 ---
 

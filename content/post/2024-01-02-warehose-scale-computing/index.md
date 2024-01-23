@@ -5,7 +5,9 @@ description: ""
 date: 2024-01-02
 author:      "oseniabdulhaleem"
 image: ""
-tags: ["Networking", "Data Centers"]
+tags:
+  - Networking
+  - Data
 categories: ["Tech"]
 ---
 
