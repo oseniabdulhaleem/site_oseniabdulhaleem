@@ -9,16 +9,6 @@
     categories: ["Tech"]
     ---
 
-   <!-- Positivity in all you do
-
-    As humans, it help in a lot of ways if we find positivity in every situation we face.
-
-    Encountering rejection whether in your professional pursuit or personal aspiration can be painful, but looking on the bright side and improving on the side that caused your rejection can go a long way, which also help makes you better.
-
-    Every rejection if used well, can play a good role in refining one skills and character. Whether its a job application or going after your dreams, understanding and addressing the reason for rejection can propel one towards success
-
-    "In the grand symphony of personal and professional development, the melody of success is often composed of the harmonies of rejection. By embracing rejection with positivity, learning from setbacks, committing to self-improvement, and cultivating resilience, you not only navigate the challenges but also orchestrate your own journey towards growth and triumph." - anonymous -->
-
 ## The Power of Positivity
 
 As humans, finding positivity in every situation we face can have profound effects on our well-being.
