@@ -1,13 +1,13 @@
-    ---
-    title: "Turning rejection into opportunities"
-    subtitle: "Embracing Positivity for Personal and Professional Growth"
-    description: "Journey to becoming a best version of yourself"
-    date: 2024-01-30
-    author:      "oseniabdulhaleem"
-    image: ""
-    tags: ["personal-development", "self-improvement"]
-    categories: ["Tech"]
-    ---
+---
+title: "Turning rejection into opportunities"
+subtitle: "Embracing Positivity for Personal and Professional Growth"
+description: "Journey to becoming a best version of yourself"
+date: 2024-01-30
+author:      "oseniabdulhaleem"
+image: ""
+tags: ["personal-development", "self-improvement"]
+categories: ["Tech"]
+---
 
 ## The Power of Positivity
 
