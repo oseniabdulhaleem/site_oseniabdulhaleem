@@ -1,8 +1,8 @@
 ---
-title: "An Example Post"
+title: "Date seems to be affecting hugo"
 subtitle: ""
 description: ""
-date: 2018-06-04
+date: 2024-03-06
 author:      ""
 image: ""
 tags: ["tag1", "tag2"]
