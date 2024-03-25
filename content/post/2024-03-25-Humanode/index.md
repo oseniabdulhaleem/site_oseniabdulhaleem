@@ -25,7 +25,7 @@ Now what is sybil resistance- you will say?
 
 It basically refers to how a blockchain network can withstand sybil attacks.
 
-## Defining sybil attacks
+### Defining sybil attacks
 
 According to wikipedia, a Sybil attack is:
 
