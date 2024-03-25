@@ -1,10 +1,10 @@
 ---
 title: "Humanode: A Crypto Biometric Blockchain"
 subtitle: "Solving Sybil issues on the Blockchain"
-description: "Dive into my journey of discovery with Humanode, a cutting-edge project merging biometrics with blockchain for unmatched Sybil resistance."
+description: "Dive into my journey of discovery with Humanode"
 date: 2024-03-26
 author:      "oseniabdulhaleem"
-image: "humanode.jpg"
+image: ""
 tags: ["Blockchain", "tech", "sybil resistance"]
 categories: ["Tech"]
 ---

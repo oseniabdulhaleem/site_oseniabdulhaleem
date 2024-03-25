@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tag2 on oseniabdulhaleem</title>
-    <link>https://zhaohuabing.com/tags/tag2/</link>
+    <link>https://oseniabdulhaleem.pages.dev/tags/tag2/</link>
     <description>Recent content in tag2 on oseniabdulhaleem</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en-uk</language>
     <lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://zhaohuabing.com/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://oseniabdulhaleem.pages.dev/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why i used JSON token as a authorisation mechanism</title>
-      <link>https://zhaohuabing.com/post/2024-01-15/</link>
+      <link>https://oseniabdulhaleem.pages.dev/post/2024-01-15/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://zhaohuabing.com/post/2024-01-15/</guid>
+      <guid>https://oseniabdulhaleem.pages.dev/post/2024-01-15/</guid>
       <description></description>
     </item>
     <item>
-      <title>Warehouse Scale Computing</title>
-      <link>https://zhaohuabing.com/post/2024-02-01-warehouse-scale-computing/</link>
-      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://zhaohuabing.com/post/2024-02-01-warehouse-scale-computing/</guid>
-      <description></description>
+      <title>An Example Post</title>
+      <link>https://oseniabdulhaleem.pages.dev/post/2024-03-09-usecallback-hook-coming-to-the-rescue/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://oseniabdulhaleem.pages.dev/post/2024-03-09-usecallback-hook-coming-to-the-rescue/</guid>
+      <description>I was recently faced with a challenge to update a button payment reference on success and failure and this was how react useCallback hook came to the rescue&#xA;// import { PaystackConsumer } from &amp;lsquo;react-paystack&amp;rsquo;;&#xA;// export default function PaystackButton() { // // Generate initial config with a function to ensure dynamic reference updates. // const config = { amount: 1000 }; // const getUpdatedConfig = () =&amp;gt; ({ // email: &amp;lsquo;intelrail@gmail.</description>
     </item>
   </channel>
 </rss>

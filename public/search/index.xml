@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Searches on oseniabdulhaleem</title>
-    <link>https://zhaohuabing.com/search/</link>
+    <link>https://oseniabdulhaleem.pages.dev/search/</link>
     <description>Recent content in Searches on oseniabdulhaleem</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <atom:link href="https://zhaohuabing.com/search/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-uk</language>
+    <atom:link href="https://oseniabdulhaleem.pages.dev/search/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://zhaohuabing.com/search/placeholder/</link>
+      <link>https://oseniabdulhaleem.pages.dev/search/placeholder/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://zhaohuabing.com/search/placeholder/</guid>
+      <guid>https://oseniabdulhaleem.pages.dev/search/placeholder/</guid>
       <description></description>
     </item>
   </channel>

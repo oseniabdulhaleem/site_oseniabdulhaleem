@@ -2,31 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on oseniabdulhaleem</title>
-    <link>https://zhaohuabing.com/categories/</link>
+    <link>https://oseniabdulhaleem.pages.dev/categories/</link>
     <description>Recent content in Categories on oseniabdulhaleem</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://zhaohuabing.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-uk</language>
+    <lastBuildDate>Tue, 30 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://oseniabdulhaleem.pages.dev/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tech</title>
-      <link>https://zhaohuabing.com/categories/tech/</link>
-      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://zhaohuabing.com/categories/tech/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tips</title>
-      <link>https://zhaohuabing.com/categories/tips/</link>
-      <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://zhaohuabing.com/categories/tips/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Life</title>
-      <link>https://zhaohuabing.com/categories/life/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://zhaohuabing.com/categories/life/</guid>
+      <link>https://oseniabdulhaleem.pages.dev/categories/tech/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://oseniabdulhaleem.pages.dev/categories/tech/</guid>
       <description></description>
     </item>
   </channel>

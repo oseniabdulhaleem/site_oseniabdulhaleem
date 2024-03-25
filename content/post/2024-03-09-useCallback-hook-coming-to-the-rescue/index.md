@@ -17,7 +17,7 @@ I was recently faced with a challenge to update a button payment reference on su
 // // Generate initial config with a function to ensure dynamic reference updates.
 // const config = { amount: 1000 };
 // const getUpdatedConfig = () => ({
-// email: 'intelrail@gmail.com',
+// email: 'love@.com',
 // amount: config.amount, // Amount is in the country's lowest currency. E.g Kobo, so 20000 kobo = N200
 // publicKey: 'pk*test*',
 // reference: new Date().getTime().toString(), // Generate a new reference on each call
