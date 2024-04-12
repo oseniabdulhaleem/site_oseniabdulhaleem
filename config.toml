@@ -40,7 +40,7 @@ home = ["HTML", "RSS", "Algolia"]
   sidebar_avatar = "img/dope.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
   featured_tags = true 
-  featured_condition_size = 1 
+  featured_condition_size = 0 
 
   # Baidu Analytics
   ba_track_id = ""
@@ -55,10 +55,10 @@ home = ["HTML", "RSS", "Algolia"]
   twikoo_env_id = ""
 
   #Enable wechat pay & alipay to allow readers send reward money if they like the articles 
-  reward = true 
+  reward = false
   # reward_guide = "如果这篇文章对你有用,请随意打赏" 
 
-  friends = true
+  friends = false
   bookmarks = false
   about_me = true
 
@@ -107,9 +107,9 @@ home = ["HTML", "RSS", "Algolia"]
   [[params.addtional_menus]]
   title =  "ARCHIVE"
   href =  "/archive/"
-  [[params.addtional_menus]]
-  title =  "NOTES"
-  href =  "/notes/"
+  #[[params.addtional_menus]]
+  #title =  "NOTES"
+  #href =  "/notes/"
   [[params.addtional_menus]]
   title =  "ABOUT"
   href =  "/about/"

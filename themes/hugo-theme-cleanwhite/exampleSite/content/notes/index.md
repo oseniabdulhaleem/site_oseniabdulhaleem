@@ -2,7 +2,6 @@
 layout: page
 ---
 
-## [Go 语言学习笔记](https://zhaohuabing.com/learning-golang)
+## [20VC notes](https://github.com/oseniabdulhaleem)
 
-## [Envoy 学习笔记](https://zhaohuabing.com/learning-envoy) 
-
+## [Envoy 学习笔记](https://github.com/oseniabdulhaleem)

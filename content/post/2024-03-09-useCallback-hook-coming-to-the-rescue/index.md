@@ -5,8 +5,8 @@ description: ""
 date: 2024-03-06
 author:      ""
 image: ""
-tags: ["tag1", "tag2"]
-categories: ["Tech"]
+tags: ["tech", "software"]
+categories: ["Tech", "software"]
 ---
 
 I was recently faced with a challenge to update a button payment reference on success and failure and this was how react useCallback hook came to the rescue
