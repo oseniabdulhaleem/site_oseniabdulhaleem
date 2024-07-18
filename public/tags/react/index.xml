@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>react on oseniabdulhaleem</title>
+    <link>https://oseniabdulhaleem.pages.dev/tags/react/</link>
+    <description>Recent content in react on oseniabdulhaleem</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://oseniabdulhaleem.pages.dev/tags/react/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why i used JSON token as a authorisation mechanism</title>
+      <link>https://oseniabdulhaleem.pages.dev/post/2024-01-15/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://oseniabdulhaleem.pages.dev/post/2024-01-15/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

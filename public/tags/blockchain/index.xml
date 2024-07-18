@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blockchain on oseniabdulhaleem</title>
+    <link>https://oseniabdulhaleem.pages.dev/tags/blockchain/</link>
+    <description>Recent content in Blockchain on oseniabdulhaleem</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Wed, 20 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://oseniabdulhaleem.pages.dev/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Humanode: A Crypto Biometric Blockchain</title>
+      <link>https://oseniabdulhaleem.pages.dev/post/2024-03-25-humanode/</link>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://oseniabdulhaleem.pages.dev/post/2024-03-25-humanode/</guid>
+      <description>Introduction Humanode has captivated my interest since late 2021, a period during which I actively participated in its testnet phase. This project stands out as a pioneering endeavor in the realm of crypto-biometrics, proposing a network where each human acts as a unique node.&#xA;My fascination with Humanode stems from its innovative solution to uniquely identify users on the blockchain, ensuring the security of their data while preserving the system&amp;rsquo;s decentralized ethos.</description>
+    </item>
+  </channel>
+</rss>

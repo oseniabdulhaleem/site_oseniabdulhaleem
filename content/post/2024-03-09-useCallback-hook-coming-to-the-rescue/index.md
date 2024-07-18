@@ -9,6 +9,22 @@ tags: ["tech", "software"]
 categories: ["Tech", "software"]
 ---
 
+/**************\*\***************/
+
+/**************\*\***************/
+
+/**************\*\***************/
+
+/** ARTICLE SOONNNNNNNNNN **/
+
+/**************\*\***************/
+
+/**************\*\***************/
+
+/**************\*\***************/
+
+
+
 I was recently faced with a challenge to update a button payment reference on success and failure and this was how react useCallback hook came to the rescue
 
 // import { PaystackConsumer } from 'react-paystack';

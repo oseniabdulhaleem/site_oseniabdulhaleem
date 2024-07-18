@@ -1,6 +1,6 @@
 ---
 layout: page
-multilingual: true
+multilingual: false
 ---
 
 ## About Me
@@ -13,8 +13,8 @@ He also has strong interests in various technical topics such as Cloud Native, A
 
 Abdulhaleem holds a BEng in Electrical and Electronics Engineering from University of Ilorin.
 
-Currently, Abdulhaleem works as a software engineer at 100devs.
+Currently, Abdulhaleem works as a software engineer at Tapha.
 
-While he is free, he likes writing technical blog posts, watching movies, practising mindfulness, hiking, travelling and learning languages.
+While he is free, he likes reading/writing technical blog posts, watching movies, practising mindfulness, jogging, playing basketball, travelling and learning languages.
 
 Feel free to connect Abdulhaleem at Github and Linkedin, leave your thoughts in his blog or share your ideas by [writing him an email](mailto:oseniabdulhaleem[at]gmail.com).

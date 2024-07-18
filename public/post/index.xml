@@ -6,8 +6,36 @@
     <description>Recent content in Posts on oseniabdulhaleem</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Tue, 30 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://oseniabdulhaleem.pages.dev/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Iron-ore and It importance to the economy</title>
+      <link>https://oseniabdulhaleem.pages.dev/post/2024-06-22/</link>
+      <pubDate>Sat, 22 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://oseniabdulhaleem.pages.dev/post/2024-06-22/</guid>
+      <description>/** article soon on how vital it can be to the nigerian economy **/&#xA;/******/&#xA;/******/&#xA;/******/&#xA;/** ARTICLE SOONNNNNNNNNN **/&#xA;/******/&#xA;/******/&#xA;/******/&#xA;I recently saw a video on asianometry on japan rise to world power with steel/iron etc&#xA;https://youtu.be/8kFMzsYdKz4</description>
+    </item>
+    <item>
+      <title>Security Practices I used on the backend during Tapha Development</title>
+      <link>https://oseniabdulhaleem.pages.dev/post/2024-07-22/</link>
+      <pubDate>Sat, 22 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://oseniabdulhaleem.pages.dev/post/2024-07-22/</guid>
+      <description>/** Article Soon **/&#xA;/******/&#xA;/******/&#xA;/******/&#xA;/** ARTICLE SOONNNNNNNNNN **/&#xA;/******/&#xA;/******/&#xA;/******/&#xA;Some of the security practise i used are&#xA;use of helmet for api security&#xA;use of rate limiting on a 15 mins window&#xA;secured cookies&#xA;JWT&#xA;CSRF applied to very important api route&#xA;the use of http-only cookies for now and my plan to change it once it begins to scale&#xA;since it is served from a single heroku instance I&amp;rsquo;ve decided to stick to http-only cookies (perfect for the session state i&amp;rsquo;m handling) but it won&amp;rsquo;t be able to scale as time goes on and more people use the platform</description>
+    </item>
+    <item>
+      <title>Humanode: A Crypto Biometric Blockchain</title>
+      <link>https://oseniabdulhaleem.pages.dev/post/2024-03-25-humanode/</link>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://oseniabdulhaleem.pages.dev/post/2024-03-25-humanode/</guid>
+      <description>Introduction Humanode has captivated my interest since late 2021, a period during which I actively participated in its testnet phase. This project stands out as a pioneering endeavor in the realm of crypto-biometrics, proposing a network where each human acts as a unique node.&#xA;My fascination with Humanode stems from its innovative solution to uniquely identify users on the blockchain, ensuring the security of their data while preserving the system&amp;rsquo;s decentralized ethos.</description>
+    </item>
+    <item>
+      <title>Date seems to be affecting hugo</title>
+      <link>https://oseniabdulhaleem.pages.dev/post/2024-03-09-usecallback-hook-coming-to-the-rescue/</link>
+      <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://oseniabdulhaleem.pages.dev/post/2024-03-09-usecallback-hook-coming-to-the-rescue/</guid>
+      <description>/**/&#xA;/**/&#xA;/**/&#xA;/** ARTICLE SOONNNNNNNNNN **/&#xA;/**/&#xA;/**/&#xA;/**/&#xA;I was recently faced with a challenge to update a button payment reference on success and failure and this was how react useCallback hook came to the rescue&#xA;// import { PaystackConsumer } from &amp;lsquo;react-paystack&amp;rsquo;;&#xA;// export default function PaystackButton() { // // Generate initial config with a function to ensure dynamic reference updates. // const config = { amount: 1000 }; // const getUpdatedConfig = () =&amp;gt; ({ // email: &amp;rsquo;love@.</description>
+    </item>
     <item>
       <title>Turning rejection into opportunities</title>
       <link>https://oseniabdulhaleem.pages.dev/post/2024-01-30-turning-rejection-into-opportunities/</link>
@@ -20,7 +48,7 @@
       <link>https://oseniabdulhaleem.pages.dev/post/2024-01-02-global-shipping-and-logistics/</link>
       <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://oseniabdulhaleem.pages.dev/post/2024-01-02-global-shipping-and-logistics/</guid>
-      <description>logistics services in nigeria&#xA;asos/amazon/ali express logistics services in nigeria&#xA;logistics that do inter state delivery from food/clothe how jumia is doing and how individual business are also handling it with local logistics company&#xA;skynet logistics company used by asos&#xA;I&amp;rsquo;m fascinated by the global shipping industries from how the global food supply chain relies on it to how our daily life necessities is delivered through it.&#xA;The shipping industry is extremely big the amount of import and export that goes through the ocean is astronomical and a disruption in a particular route and can have a major impact on all the trade(link ryan peterson video)</description>
+      <description>/******/&#xA;/******/&#xA;/******/&#xA;/** ARTICLE SOONNNNNNNNNN **/&#xA;/******/&#xA;/******/&#xA;/******/&#xA;logistics services in nigeria&#xA;asos/amazon/ali express logistics services in nigeria&#xA;logistics that do inter state delivery from food/clothe how jumia is doing and how individual business are also handling it with local logistics company&#xA;skynet logistics company used by asos&#xA;I&amp;rsquo;m fascinated by the global shipping industries from how the global food supply chain relies on it to how our daily life necessities is delivered through it.</description>
     </item>
     <item>
       <title>Why i used JSON token as a authorisation mechanism</title>
@@ -41,14 +69,7 @@
       <link>https://oseniabdulhaleem.pages.dev/post/2024-01-02-warehose-scale-computing/</link>
       <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://oseniabdulhaleem.pages.dev/post/2024-01-02-warehose-scale-computing/</guid>
-      <description>I remember during my Industrial Training programme in school where I was introduced to the world of networking. I did my Industrial training at Network operations center of my school an institution that provides internet services over 3000 concurrent users</description>
-    </item>
-    <item>
-      <title>An Example Post</title>
-      <link>https://oseniabdulhaleem.pages.dev/post/2024-03-09-usecallback-hook-coming-to-the-rescue/</link>
-      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://oseniabdulhaleem.pages.dev/post/2024-03-09-usecallback-hook-coming-to-the-rescue/</guid>
-      <description>I was recently faced with a challenge to update a button payment reference on success and failure and this was how react useCallback hook came to the rescue&#xA;// import { PaystackConsumer } from &amp;lsquo;react-paystack&amp;rsquo;;&#xA;// export default function PaystackButton() { // // Generate initial config with a function to ensure dynamic reference updates. // const config = { amount: 1000 }; // const getUpdatedConfig = () =&amp;gt; ({ // email: &amp;lsquo;intelrail@gmail.</description>
+      <description>/******/&#xA;/******/&#xA;/******/&#xA;/** ARTICLE SOONNNNNNNNNN **/&#xA;/******/&#xA;/******/&#xA;/******/&#xA;I remember during my Industrial Training programme in school where I was introduced to the world of networking. I did my Industrial training at Network operations center of my school an institution that provides internet services over 3000 concurrent users</description>
     </item>
   </channel>
 </rss>

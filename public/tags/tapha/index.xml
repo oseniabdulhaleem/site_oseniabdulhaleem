@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tapha on oseniabdulhaleem</title>
+    <link>https://oseniabdulhaleem.pages.dev/tags/tapha/</link>
+    <description>Recent content in tapha on oseniabdulhaleem</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Sat, 22 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://oseniabdulhaleem.pages.dev/tags/tapha/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Security Practices I used on the backend during Tapha Development</title>
+      <link>https://oseniabdulhaleem.pages.dev/post/2024-07-22/</link>
+      <pubDate>Sat, 22 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://oseniabdulhaleem.pages.dev/post/2024-07-22/</guid>
+      <description>/** Article Soon **/&#xA;/******/&#xA;/******/&#xA;/******/&#xA;/** ARTICLE SOONNNNNNNNNN **/&#xA;/******/&#xA;/******/&#xA;/******/&#xA;Some of the security practise i used are&#xA;use of helmet for api security&#xA;use of rate limiting on a 15 mins window&#xA;secured cookies&#xA;JWT&#xA;CSRF applied to very important api route&#xA;the use of http-only cookies for now and my plan to change it once it begins to scale&#xA;since it is served from a single heroku instance I&amp;rsquo;ve decided to stick to http-only cookies (perfect for the session state i&amp;rsquo;m handling) but it won&amp;rsquo;t be able to scale as time goes on and more people use the platform</description>
+    </item>
+  </channel>
+</rss>
