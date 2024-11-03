@@ -91,7 +91,7 @@ def make_looper(s):
 
 With cycle, we no longer need to handle indexes or resetting manually. Here’s how it works:
 
-- cycle(s): cycle creates an iterator that loops over s infinitely.
+- cycle(s): cycle creates an iterator that loops over `s` infinitely.
 - next(g): Each call to next(g) retrieves the next character in s and automatically loops back when it reaches the end.
 
 ### Practical Uses of cycle
@@ -102,7 +102,7 @@ The cycle method is useful beyond this problem. Here are some scenarios where cy
 
 When distributing tasks evenly across servers or workers, cycle lets you rotate through a list repeatedly:
 
-```
+```python
 from itertools import cycle
 
 servers = ["Server1", "Server2", "Server3"]
@@ -114,4 +114,4 @@ for task in range(10):  # Assign 10 tasks
 
 ```
 
-Overall, learning about itertools.cycle has helped me write more concise and expressive code. It’s a great tool for handling repetitive sequences without complex logic, just like in my make_looper function! 😊
+Overall, learning about `itertools.cycle` will help me write more concise and expressive code. It’s a great tool for handling repetitive sequences without complex logic, just like in my make_looper function! 😊
