@@ -1,9 +1,9 @@
 ---
 title: "Insights into the flour industry in nigeria"
 subtitle: "Flour in Nigeria"
-description: ""
+description: "Everything about flour 🙂‍↔️"
 date: 2024-11-08
-author:      ""
+author:      "oseniabdulhaleem and chatgpt 4o"
 image: ""
 tags: ["Economics", "Food", "Nigeria", "Sustainability"]
 categories: ["Nigeria", "Economics"]
