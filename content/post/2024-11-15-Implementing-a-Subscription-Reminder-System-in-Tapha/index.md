@@ -5,7 +5,7 @@ description: "Detailing how I implemented the notification system using GCP reso
 date: 2024-11-15
 author: "oseniabdulhaleem"
 image: ""
-tags: ["GCP", "Software", "System Design"]
+tags: ["GCP", "Software", "System Design", "Google Cloud"]
 categories: ["Tech"]
 ---
 
@@ -74,7 +74,7 @@ Here’s how I configured the Cloud Function:
 
 **File Structure Visualisation**
 
-![file-structure](code-setup.png)
+![file-structure](image-2.png)
 
 ## Debugging with Logs
 
