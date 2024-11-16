@@ -9,11 +9,10 @@ tags: ["GCP", "Software", "System Design"]
 categories: ["Tech"]
 ---
 
-
 Managing subscriptions effectively is crucial for Tapha, a platform designed to help community managers streamline operations for paid groups on Telegram and Discord. Tapha handles everything from processing group memberships to monitoring user activity and even sending out notifications.
 
-Recently, I implemented a subscription reminder system on Tapha. This feature notifies users 1–3 days before their subscription expires, including a renewal link to ensure continuity. 
-Leveraging the Google Cloud Platform (GCP), I created a cost-effective and efficient solution. Here’s how I achieved it.
+Recently, I implemented a subscription reminder system on Tapha. This feature notifies users 1–3 days before their subscription expires, including a renewal link to ensure continuity.
+Using the Google Cloud Platform (GCP), I created a cost-effective and efficient solution. Here’s how I achieved it.
 
 ## The Requirements
 
